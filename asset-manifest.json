@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/our-profile/static/css/main.9ac916a9.chunk.css",
+    "main.js": "/our-profile/static/js/main.6e844426.chunk.js",
+    "main.js.map": "/our-profile/static/js/main.6e844426.chunk.js.map",
+    "runtime-main.js": "/our-profile/static/js/runtime-main.ceb99907.js",
+    "runtime-main.js.map": "/our-profile/static/js/runtime-main.ceb99907.js.map",
+    "static/js/2.37ba6e51.chunk.js": "/our-profile/static/js/2.37ba6e51.chunk.js",
+    "static/js/2.37ba6e51.chunk.js.map": "/our-profile/static/js/2.37ba6e51.chunk.js.map",
+    "static/js/3.58903a3b.chunk.js": "/our-profile/static/js/3.58903a3b.chunk.js",
+    "static/js/3.58903a3b.chunk.js.map": "/our-profile/static/js/3.58903a3b.chunk.js.map",
+    "index.html": "/our-profile/index.html",
+    "static/css/main.9ac916a9.chunk.css.map": "/our-profile/static/css/main.9ac916a9.chunk.css.map",
+    "static/js/2.37ba6e51.chunk.js.LICENSE.txt": "/our-profile/static/js/2.37ba6e51.chunk.js.LICENSE.txt",
+    "static/media/1.2efd02bd.png": "/our-profile/static/media/1.2efd02bd.png",
+    "static/media/1.7b784a77.png": "/our-profile/static/media/1.7b784a77.png",
+    "static/media/2.443643f2.png": "/our-profile/static/media/2.443643f2.png",
+    "static/media/2.99c550df.png": "/our-profile/static/media/2.99c550df.png",
+    "static/media/3.0b4730c7.png": "/our-profile/static/media/3.0b4730c7.png",
+    "static/media/3.df05572e.png": "/our-profile/static/media/3.df05572e.png",
+    "static/media/4.7c5cbffb.png": "/our-profile/static/media/4.7c5cbffb.png",
+    "static/media/4.e274cb64.png": "/our-profile/static/media/4.e274cb64.png",
+    "static/media/5.73371520.png": "/our-profile/static/media/5.73371520.png",
+    "static/media/6.8f0ea0bb.png": "/our-profile/static/media/6.8f0ea0bb.png",
+    "static/media/gojek.590d62a8.png": "/our-profile/static/media/gojek.590d62a8.png",
+    "static/media/tokopedia.e899df9e.png": "/our-profile/static/media/tokopedia.e899df9e.png",
+    "static/media/traveloka.e03003f0.png": "/our-profile/static/media/traveloka.e03003f0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceb99907.js",
+    "static/js/2.37ba6e51.chunk.js",
+    "static/css/main.9ac916a9.chunk.css",
+    "static/js/main.6e844426.chunk.js"
+  ]
+}
