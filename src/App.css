@@ -1,0 +1,68 @@
+.slider h3,
+:root {
+	--color1: #807794;
+  --color2: #E9DFF0;
+  --color3: #DBD1D8;
+  --color4: #C5B5C0;
+  --color5: #AE98A7;
+}
+
+.bg-color1 {
+  background-color: var(--color1);
+} 
+
+.bg-color2 {
+  background-color: var(--color2);
+} 
+
+.bg-color3 {
+  background-color: var(--color3);
+} 
+
+.bg-color4 {
+  background-color: var(--color4);
+} 
+
+.bg-color5 {
+  background-color: var(--color5);
+} 
+
+.color1 {
+  color: var(--color2);
+}
+
+.slider h5,
+.clients h3 {
+  text-shadow: 2px 2px 3px rgba(0,0,0,1);
+}
+
+.parallax-container {
+  height: 20%;
+}
+
+.parallax img {
+  filter: blur(2px);
+  opacity: 0.5 !important;
+}
+
+.clients img {
+  max-width: 150px;
+  filter: drop-shadow(1px 1px 1px rgba(0,0,0,1));
+}
+
+section, footer {
+  padding: 20px 0px;
+}
+
+.card-panel p{
+  text-align: justify;
+  padding: 0px 10px 0px 10px;
+}
+
+.about-us-text{
+  text-transform: uppercase
+}
+
+.contact h3{
+  text-shadow: 1px 1px 0.5px rgba(0,0,0,0.2);
+}
